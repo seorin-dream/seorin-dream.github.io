@@ -24,7 +24,7 @@ let remas_music_count=[in_lv.filter((x)=>x.dx==0 && x.lv[4]!=0).length];	// Rema
 
 const get_page_failure = ( url )=>
 {
-	alert('通信に失敗した模様。\n再度試してみてください。');
+	alert('통신에 실패했어요.\n다시 한 번 시도해 주세요.');
 	window.location.href=mainet_dom + url ;
 }
 
