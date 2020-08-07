@@ -1,0 +1,48 @@
+.game_display {
+    position: relative;
+    width:400;
+    max-width:100%;
+}
+
+.game_plate {
+    position: absolute;
+    width:40%;
+    top:1%;
+    left:20.5%;
+}
+
+.game_icon {
+    position: absolute;
+    width:18%;
+    top:6%;
+    left:2.5%;
+}
+
+.game_rank {
+    position: absolute;
+    width:9%;
+    top:5%;
+    left:38%;
+}
+
+.game_rating {
+    position: absolute;
+    width:16%;
+    height:9%;
+    top:1%;
+    left:21%;
+    font-size:1ex;
+    font-weight:normal;
+}
+
+.game_name {
+    position: absolute;
+    top:11%;
+    left:23%;
+    height:12%;
+    width:30%;    
+    font-size:82.5%;
+    text-align:left;
+    color:#ffffff;
+    background: rgba(0,0,0,.20);
+} 
