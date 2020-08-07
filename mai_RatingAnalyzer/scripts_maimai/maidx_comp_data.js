@@ -1,7 +1,7 @@
 javascript:
 (function()
 {
-const mainet_dom = 'https://maimaidx.jp/maimai-mobile/';
+const mainet_dom = 'https://maimaidx-eng.com/maimai-mobile/';
 let dxlist=[], titlelist=[], r_dxlist=[], r_titlelist=[];
 let newest_ver = 14;
 
