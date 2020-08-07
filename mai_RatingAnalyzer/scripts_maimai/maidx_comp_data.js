@@ -643,7 +643,7 @@ const print_result = (ba, ad, ex, ma, re, name, plate, musicdata, re_musicdata, 
 
 const start = performance.now();
 
-if(location.href.slice(0,41) == mainet_dom+"friend/" && location.href.length > 41)
+if(location.href.slice(0,46) == mainet_dom+"friend/" && location.href.length > 46) // 일판은 dx.jp로 끝나는데 국제판은 dx-eng.com으로 끝남. 41에서 46으로 조정.
 {
 	let frdid = new URLSearchParams(document.location.search).get('idx');
 	Promise.all([
