@@ -1,0 +1,55 @@
+body {
+/*
+     background:#f7fcfe url(https://maimai-net.com/maimai-mobile/img/bg_bottom.png) repeat-x fixed bottom;
+     margin:0;
+     padding:0;
+*/
+}
+
+h2 {
+    font-family:sans-serif;
+}
+
+.alltable {
+    border-collapse: collapse;
+    background-color:#FFFFFF;
+    font-size:0.75em;
+    max-width:100%;
+}
+
+.datatable {
+    border-collapse: collapse;
+    background-color:#FFFFFF;
+    font-size:0.90em;
+    max-width:100%;
+}
+.complist {
+    border-collapse: collapse;
+}
+
+.music_title {
+    background-color:#FFFFFF;
+    font-family:'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
+}
+
+.rating_rank {
+    background-color:#FFFFFF;
+    font-family:'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
+}
+
+.not_eval_list {
+     font-size : 80%;
+}
+.evaluated_list {
+     font-size : 80%;
+}
+
+.explain {
+     background-color:#FFFFFF;
+     font-size:75%;
+}
+
+.recent_table {
+     font-size : 50%;
+     border-collapse: collapse;
+}    
