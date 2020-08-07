@@ -1,0 +1,147 @@
+.mai_rainbow {
+  color: #ffffff; text-align:center;
+  background-image: linear-gradient(120deg, yellow, orange, red, darkviolet, darkblue, blue, green, green);
+  font-family:sans-serif;
+}
+
+.mai_gold
+{
+  color: #000000; text-align:center;
+  background-image: linear-gradient(100deg, #F7DE05, #DA8E00, #EDAC06, #F7DE05, #ECB802, #DAAF08, #B67B03);
+  font-family:sans-serif;
+}
+
+.mai_silver
+{
+  color: #000000; text-align:center;
+  background-image: linear-gradient(100deg, #A5A5A5, #BABAC2, #E8E8E8, #A5A5A5, #BABAC2);
+  font-family:sans-serif;
+}
+
+.mai_copper
+{
+  color: #000000; text-align:center;
+  background-image: linear-gradient(100deg, #C15B2F, #DA8A67, #E9BBA7, #DA8A67, #C15B2F);
+  font-family:sans-serif;
+}
+
+.mai_violet
+{
+  color: #ffffff; text-align:center;
+  background-image: linear-gradient(100deg, #6A2E9E, #8D43C9, #AD7CD8, #8D43C9, #6A2E9E);
+  font-family:sans-serif;
+}
+
+.mai_red
+{
+  color: #ffffff; background-color: red; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_yellow
+{
+  color: #000000; background-color: yellow; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_green
+{
+  color: #000000; background-color: greenyellow; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_blue
+{
+  color: #FFFFFF; background-color: blue; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_white
+{
+  color: #000000; background-color: white; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_remaster
+{
+  color: #8c2cd5; background-color: #e5ddea; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_master
+{
+  color: #303030; background-color: #c27ff4; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_expert
+{
+  color: #303030; background-color: #ff828e; text-align:center; 
+  font-family:sans-serif;
+}
+
+.mai_advanced
+{
+  color: #303030; background-color: #f8df3a; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_basic
+{
+  color: #303030; background-color: #6fe163; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_easy
+{
+  color:#FFFFFF; background-color: #1477e6; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_blue
+{
+  color:#000000; background-color: #00ddff; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_green
+{
+  color:#000000; background-color: #42f92a; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_orange
+{
+  color:#000000; background-color: #ff9a0c; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_pink
+{
+  color:#000000; background-color: #ff8e8e; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_murasaki
+{
+  color:#FFFFFF; background-color: #d000ff; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_milk
+{
+  color:#b44c97; background-color: #fdffc4; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_finale
+{
+  color:#FFFFFF; background-color: #606fb3; text-align:center;
+  font-family:sans-serif;
+}
+
+.mai_ver_dx
+{
+  color:#000000; background-color: #ffffff; text-align:center;
+  font-family:sans-serif;
+}
