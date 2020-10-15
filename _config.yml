@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: SkyJUMP with NANO
+name: SkyJUMP
 
 # Short bio or description (displayed in the header)
-description: CS로 먹고 살 생각 없는 CS 전공자
+description: 소개글
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://skyjumpnano.github.io/images/profile.PNG
@@ -18,15 +18,15 @@ avatar: https://skyjumpnano.github.io/images/profile.PNG
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: pmh10132000@gmail.com
-  facebook: skyjump.nano
+  email: 
+  facebook: 
   flickr:
   github: skyjumpnano
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: SkyJUMP_NANO_TW
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
